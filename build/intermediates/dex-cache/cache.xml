@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_79e5a8405a7a64629c1b8a0e5d4878063346234a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fb504874aeb08b118bd4cbcfe2a71c06073db89e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0d8bf8aeffe55b938a661cb769425ce407ec786a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ec8da8c9c4f781e1d5f70506bac5a4820563544f">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0a789be450cdc15da6c7e0ff3a9c86dad727ff23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1d93b91c2a149107f26106157fc49fbe0eb8f729\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_802f1914723d9ca2476397c234a6a210182efd82\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="c110828f0f3d35bb45ed2b0152af19f9f6311a21">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89bb060603da7f22a08e65f98e9280a4a0b5c106\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\henry\Desktop\android\hello_world\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8629b7a49c7a9b9dfc99dbb8b4f0bb5205bcfdc1\classes.dex" />
+    </item>
+
+</items>
